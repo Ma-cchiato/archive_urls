@@ -1,1 +1,1 @@
-pyinstaller archive_urls.spec
+pyinstaller --onefile archive_urls.py
