@@ -1,18 +1,11 @@
 
 *.txt
-build/archive_urls/localpycs/struct.pyc
+*.pyc
+*.pyz
 .idea/workspace.xml
-archive_urls.spec
-build/archive_urls/Analysis-00.toc
-build/archive_urls/archive_urls.exe.manifest
-build/archive_urls/archive_urls.pkg
-build/archive_urls/base_library.zip
-build/archive_urls/EXE-00.toc
-build/archive_urls/localpycs/pyimod01_archive.pyc
-build/archive_urls/localpycs/pyimod02_importers.pyc
-build/archive_urls/localpycs/pyimod03_ctypes.pyc
-build/archive_urls/localpycs/pyimod04_pywin32.pyc
-build/archive_urls/PKG-00.toc
-build/archive_urls/PYZ-00.pyz
-build/archive_urls/xref-archive_urls.html
-build/archive_urls/PYZ-00.toc
+*.spec
+*.toc
+*.manifest
+*.pkg
+*.zip
+*.html
